@@ -1,7 +1,7 @@
 #sets
 #> immutable, unordered(no idx)
-#> can store str, boolean, int, float,tuple (mutable)
-#> cant store lists,dict(immutable)
+#> can store str, boolean, int, float,tuple (immutable)
+#> cant store lists,dict(mutable)
 #rpeated elements stored only once
 # sets r mutable,elements of set r immutable
 collection={1,2,3,4}

@@ -2,6 +2,7 @@ student= {
     "NAME": "DISHA",
     "age": 18,
 }
+print(student)
 new_dict=({"NAME" : "shaurya", "age":19, "city": "delhi"})
 student.update(new_dict)
 print(student)
